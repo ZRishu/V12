@@ -50,6 +50,14 @@ pip install -r requirements.txt
 
 ### Usage
 
+Before you start the engine, you must pay the toll to the AI overlords.
+
+```bash
+# Export your API key so the magic works
+export OPENAI_API_KEY="your-openai-api-key"
+
+```
+
 To transpile your C code into "modern" ES6+:
 
 ```bash

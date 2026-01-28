@@ -1,0 +1,35 @@
+MIT License (Maybe It Transpiles)
+
+Copyright (c) 2026 ME & That One GPU in Virginia
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Hallucinations"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, subject to the following conditions:
+
+1. The above copyright notice and this permission notice shall be included in all
+   copies or substantial portions of the Software.
+
+2. You acknowledge that this software does not compile code; it guesses code.
+   If the resulting JavaScript deletes your production database or insults your
+   ancestry, that is a feature, not a bug.
+
+3. You agree not to ask the Author "why" the logic works. The Author does not know.
+   The AI does not know. We are all just predicting the next token.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+FURTHERMORE, THE AUTHOR DISCLAIMS ALL LIABILITY FOR:
+
+- POINTER ARITHMETIC THAT BECOMES 'NaN'.
+- MEMORY LEAKS CAUSED BY EXISTENTIAL DREAD.
+- YOUR CPU FANS SPINNING SO FAST THEY ACHIEVE LIFTOFF.
+
+GOOD LUCK.

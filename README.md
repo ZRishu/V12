@@ -1,5 +1,7 @@
 # Unnecessary C to JavaScript V12 Engine: No one asked for
 
+[![License: MIT](https://img.shields.io/badge/License-MIT_%28Maybe_It_Transpiles%29-yellow.svg)](LICENSE)
+
 > _"Why write a lexer, parser, AST generator, semantic analyzer, and code generator when you can just vibe check the code with a glorified autocorrect?"_
 
 Welcome to the **V12 Engine**. It is 4 versions better than V8 because I skipped the hard parts.
@@ -71,5 +73,3 @@ Why?
 **Should I do it?** Open an issue and tell me if you want your CPU fans to sound like a jet engine for the sake of privacy.
 
 ---
-
-**License:** MIT (Maybe It Transpiles)
